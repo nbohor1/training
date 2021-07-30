@@ -1,1 +1,0 @@
-fruits = ['apple', 'dragonfruit', 'banana', 'peach', 'watermelon', 'grape']
