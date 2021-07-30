@@ -42,7 +42,7 @@ class CapacitacionControllerTest {
         List<Cuentas> listCuentas = new ArrayList<Cuentas>();
         Cuentas cuenta = new Cuentas("SDA", 56088);
         listCuentas.add(cuenta);
-
+	//datos de respuesta
         DatosPrincipales datosPrincipales = new DatosPrincipales();
         datosPrincipales.setNombre("Cliente Prueba 1");
         datosPrincipales.setEdad(25);
