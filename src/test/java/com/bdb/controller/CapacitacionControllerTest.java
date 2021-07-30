@@ -19,7 +19,9 @@ import com.bdb.dao.InfoCliente;
 import com.bdb.service.CapacitacionService;
 
 class CapacitacionControllerTest {
-	
+	//1. set dependencias
+	//2. set up objetos
+	//3. prueba unitaria
 	@Mock
 	CapacitacionService servicio;
 	
