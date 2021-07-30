@@ -60,6 +60,7 @@ class CapacitacionControllerTest {
         
         Assert.assertNotNull(response);
         Assert.assertEquals(datosPrincipales.getEdad(), response.getDatosPrincipales().getEdad());
+	Assert.assertEquals(datosPrincipales.getNombre(), response.getDatosPrincipales().getNombre());
 	}
 
 }
